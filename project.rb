@@ -43,8 +43,8 @@ class Dictionary
     # end
 
     def testing_entering_translation
-      enter = gets.chomp
-      if enter == "1"
+      enter_number_file = gets.chomp
+      if enter_number_file == "1"
         hash = []
         File.open("First.txt", "r+") do |file|
           hash = file.readlines
@@ -81,7 +81,9 @@ class Dictionary
             end
           end
         end
-      else
+      elsif
+
+      enter_number_file == "2"
         hash = []
         File.open("Second.txt", "r+") do |file|
           hash = file.readlines
@@ -124,5 +126,5 @@ end
 
 dictionary = Dictionary.new("Taras")
 dictionary.say_hello
-dictionary.chose_item
+# dictionary.chose_item
 dictionary.testing_entering_translation

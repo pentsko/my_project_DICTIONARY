@@ -12,8 +12,8 @@ def chose_item
       puts "***"
       puts "#{@name} нажміть будь яку цифру коли будете готові перейти до тестів"
     end
-    # else
-    #   puts "repeat"
+    else
+      puts "repeat"
   end
 end
 

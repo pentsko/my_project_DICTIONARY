@@ -1,4 +1,6 @@
-require 'timers'
+# require 'timers'
+require_relative './testing_dictionarys_methods'
+
 
 class Dictionary
   attr_accessor :name
@@ -12,33 +14,33 @@ class Dictionary
   def say_hello
     puts "Привіт #{@name}, приступим..."
 
-    timers = Timers::Group.new
-    Timers::Group #after:
-    one_second_timer = timers.after(1) {
+    # timers = Timers::Group.new
+    # Timers::Group #after:
+    # one_second_timer = timers.after(1) {
       puts "#{@name} для того щоб вибрати First введіть '1'"
-      puts "#{@name} для того щоб вибрати Second введіть '2'" }
-    timers.wait
-
-    def chose_item
-      user_chose_item = gets.chomp
-
-      if user_chose_item == "1"
-        File.open("First.txt", "r") do |file|
-          puts read_file = file.readlines
-          # puts read_file
-          puts "***"
-          puts "#{@name} нажміть  '1' коли будете готові перейти до тестів"
-        end
-
-      elsif user_chose_item == "2"
-        File.open("Second.txt", "r") do |file|
-          puts read_file = file.readlines
-          # puts read_file
-          puts "***"
-          puts "#{@name} нажміть будь яку цифру коли будете готові перейти до тестів"
-        end
-      end
-    end
+      puts "#{@name} для того щоб вибрати Second введіть '2'"
+    #}
+    # timers.wait
+    chose_item
+    #   user_chose_item = gets.chomp
+    #
+    #   if user_chose_item == "1"
+    #     File.open("First.txt", "r") do |file|
+    #       puts read_file = file.readlines
+    #       # puts read_file
+    #       puts "***"
+    #       puts "#{@name} нажміть  '1' коли будете готові перейти до тестів"
+    #     end
+    #
+    #   elsif user_chose_item == "2"
+    #     File.open("Second.txt", "r") do |file|
+    #       puts read_file = file.readlines
+    #       # puts read_file
+    #       puts "***"
+    #       puts "#{@name} нажміть будь яку цифру коли будете готові перейти до тестів"
+    #     end
+    #   end
+    # end
 
     def testing_entering_translation
       enter = gets.chomp

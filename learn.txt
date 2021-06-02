@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Git, ["Гит\n"]
+=======
+Loop, ["Цикл\n"]
+>>>>>>> working part of chosing item to read

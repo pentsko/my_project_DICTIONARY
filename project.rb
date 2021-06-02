@@ -37,4 +37,4 @@ translation = EnterTranslation.new()
 translation.chose_item_to_work
 translation.chose_what_to_read
 
-# dictionary.testing_entering_translation
+

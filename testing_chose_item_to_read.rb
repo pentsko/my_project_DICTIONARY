@@ -1,20 +1,15 @@
-class Read_File
+require_relative './testing_entering_translation'
+
+class Read_File < EnterTranslation
 
   def initialize (numb = 0)
     @numb = numb
   end
 
   def chose_item_to_work
-    enter_number_file = gets.chomp
-    if enter_number_file == "1"
-      @numb = "First.txt"
-    elsif enter_number_file == "2"
-      @numb = "Second.txt"
-    else
-      chose_item_to_work
-      # return enter_number_file = gets.chomp
+    super
     end
-  end
+
 
   def reading
     hash = []

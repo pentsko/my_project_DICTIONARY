@@ -1,5 +1,5 @@
-require_relative './testing_chose_item_to_read.rb'
-require_relative './testing_entering_translation.rb'
+require_relative './chose_item.rb'
+require_relative './entering_translation.rb'
 
 class Dictionary
   attr_accessor :user_name
@@ -29,7 +29,7 @@ end
 
 dictionary = Dictionary.new("Taras")
 dictionary.say_hello
-read = Read_File.new ()
+read = ReadFile.new ()
 read.chose_item_to_work
 read.reading
 dictionary.press_to_continue

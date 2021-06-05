@@ -2,9 +2,6 @@ require_relative './entering_translation'
 
 class ReadFile < EnterTranslation
 
-  def initialize (file_name)
-    super(file_name)
-  end
 
   def chose_item_to_work
     super
@@ -12,6 +9,7 @@ class ReadFile < EnterTranslation
 
   def reading
     hash = []
+    puts @file_name
     File.open("#{@file_name}", "r+") do |file|
       hash = file.readlines
     end
@@ -22,6 +20,7 @@ class ReadFile < EnterTranslation
   end
 end
 
-# read = ReadFile.new ("Second.txt")
+# file_name = gets.chomp
+# read = ReadFile.new
 # read.chose_item_to_work
 # read.reading

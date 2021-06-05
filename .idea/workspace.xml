@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3acca63b-6adc-4211-a332-0ecd488bb91b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chose_item.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chose_item.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary.rb" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entering_translation.rb" beforeDir="false" afterPath="$PROJECT_DIR$/entering_translation.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tPCU1lOndhU31zNcKpf3k1loZ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Ruby.dictionary">
+    <configuration name="chose_item" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="my_dictionary" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/chose_item.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dictionary" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="my_dictionary" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/dictionary.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="entering_translation" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="my_dictionary" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/entering_translation.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="my_dictionary" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/project.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.dictionary" />
+        <item itemvalue="Ruby.chose_item" />
+        <item itemvalue="Ruby.project (1)" />
+        <item itemvalue="Ruby.entering_translation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3acca63b-6adc-4211-a332-0ecd488bb91b" name="Default Changelist" comment="" />
+      <created>1622661349543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622661349543</updated>
+      <workItem from="1622661350995" duration="2073000" />
+      <workItem from="1622665826974" duration="3126000" />
+      <workItem from="1622696707170" duration="2794000" />
+      <workItem from="1622776776359" duration="2039000" />
+      <workItem from="1622780022904" duration="1640000" />
+      <workItem from="1622822989197" duration="1073000" />
+      <workItem from="1622824087993" duration="2287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/my_dictionary@testing_entering_translation.rcov" NAME="testing_entering_translation Coverage Results" MODIFIED="1622666948351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing_folder" MODULE_NAME="my_dictionary" />
+    <SUITE FILE_PATH="coverage/my_dictionary@testing_chose_item_to_read.rcov" NAME="testing_chose_item_to_read Coverage Results" MODIFIED="1622700028285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
+    <SUITE FILE_PATH="coverage/my_dictionary@entering_translation.rcov" NAME="entering_translation Coverage Results" MODIFIED="1622780658230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
+    <SUITE FILE_PATH="coverage/my_dictionary@project__1_.rcov" NAME="project (1) Coverage Results" MODIFIED="1622780801989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
+    <SUITE FILE_PATH="coverage/my_dictionary@dictionary.rcov" NAME="dictionary Coverage Results" MODIFIED="1622867129327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
+    <SUITE FILE_PATH="coverage/my_dictionary@testing_entering_translation__1_.rcov" NAME="testing_entering_translation (1) Coverage Results" MODIFIED="1622699950843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
+    <SUITE FILE_PATH="coverage/my_dictionary@project.rcov" NAME="project Coverage Results" MODIFIED="1622662379928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing_folder" MODULE_NAME="my_dictionary" />
+    <SUITE FILE_PATH="coverage/my_dictionary@chose_item.rcov" NAME="chose_item Coverage Results" MODIFIED="1622825110486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
+  </component>
+</project>

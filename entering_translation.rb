@@ -1,17 +1,14 @@
 class EnterTranslation
   attr_accessor :file_name
 
-  def initialize (file_name = "Second.txt")
-    @file_name = file_name
-  end
-
-  def chose_item_to_work
+    def chose_item_to_work
     enter_number_file = gets.chomp.to_sym
     file_names = {
       "1": "First.txt",
       "2": "Second.txt"
     }
-    file_name = file_names[enter_number_file]
+
+    @file_name = file_names[enter_number_file]
     file_name || chose_item_to_work
   end
 

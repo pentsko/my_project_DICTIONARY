@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3acca63b-6adc-4211-a332-0ecd488bb91b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testing_enter_right_translation.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing_enter_right_translation.rb" beforeDir="false" afterPath="$PROJECT_DIR$/testing_enter_right_translation.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Ruby.testing_enter_right_translation">
+  <component name="RunManager" selected="Ruby.dictionary">
     <configuration name="chose_item" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="my_dictionary" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -109,9 +110,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.testing_enter_right_translation" />
-        <item itemvalue="Ruby.entering_translation" />
         <item itemvalue="Ruby.dictionary" />
+        <item itemvalue="Ruby.entering_translation" />
+        <item itemvalue="Ruby.testing_enter_right_translation" />
         <item itemvalue="Ruby.chose_item" />
       </list>
     </recent_temporary>
@@ -132,7 +133,8 @@
       <workItem from="1622780022904" duration="1640000" />
       <workItem from="1622822989197" duration="1073000" />
       <workItem from="1622824087993" duration="2287000" />
-      <workItem from="1623120000299" duration="4186000" />
+      <workItem from="1623120000299" duration="5472000" />
+      <workItem from="1623127310520" duration="1242000" />
     </task>
     <servers />
   </component>
@@ -154,10 +156,10 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/my_dictionary@testing_entering_translation.rcov" NAME="testing_entering_translation Coverage Results" MODIFIED="1622666948351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing_folder" MODULE_NAME="my_dictionary" />
     <SUITE FILE_PATH="coverage/my_dictionary@testing_chose_item_to_read.rcov" NAME="testing_chose_item_to_read Coverage Results" MODIFIED="1622700028285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
-    <SUITE FILE_PATH="coverage/my_dictionary@entering_translation.rcov" NAME="entering_translation Coverage Results" MODIFIED="1623123694733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
+    <SUITE FILE_PATH="coverage/my_dictionary@entering_translation.rcov" NAME="entering_translation Coverage Results" MODIFIED="1623127585602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
     <SUITE FILE_PATH="coverage/my_dictionary@project__1_.rcov" NAME="project (1) Coverage Results" MODIFIED="1622780801989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
-    <SUITE FILE_PATH="coverage/my_dictionary@dictionary.rcov" NAME="dictionary Coverage Results" MODIFIED="1623121277148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
-    <SUITE FILE_PATH="coverage/my_dictionary@testing_enter_right_translation.rcov" NAME="testing_enter_right_translation Coverage Results" MODIFIED="1623123736609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
+    <SUITE FILE_PATH="coverage/my_dictionary@dictionary.rcov" NAME="dictionary Coverage Results" MODIFIED="1623128525018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
+    <SUITE FILE_PATH="coverage/my_dictionary@testing_enter_right_translation.rcov" NAME="testing_enter_right_translation Coverage Results" MODIFIED="1623125206064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
     <SUITE FILE_PATH="coverage/my_dictionary@testing_entering_translation__1_.rcov" NAME="testing_entering_translation (1) Coverage Results" MODIFIED="1622699950843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />
     <SUITE FILE_PATH="coverage/my_dictionary@project.rcov" NAME="project Coverage Results" MODIFIED="1622662379928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing_folder" MODULE_NAME="my_dictionary" />
     <SUITE FILE_PATH="coverage/my_dictionary@chose_item.rcov" NAME="chose_item Coverage Results" MODIFIED="1622825110486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my_dictionary" />

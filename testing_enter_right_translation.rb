@@ -1,20 +1,14 @@
-# def enter
-#   a = "aaa"
-#   word = gets.chomp!
-#    word == a
-#   enter ||  puts ("bad")
-#
-# end
-# enter
+class A
+  attr_accessor :numb
 
-def chose_item_to_work
-  enter_number_file = gets.chomp.to_sym
-  file_names = {
-    "1": "First.txt",
-    "2": "Second.txt"
-  }
+  def enter
+    a = "q"
+    word = gets.chomp
+    @numb = word == "q"
+    numb || enter
 
-  @file_name = file_names[enter_number_file]
-  file_name || chose_item_to_work
+  end
 end
-chose_item_to_work
+
+a = A.new
+a.enter

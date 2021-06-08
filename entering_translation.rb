@@ -1,7 +1,7 @@
 class EnterTranslation
   attr_accessor :file_name
 
-    def chose_item_to_work
+  def chose_item_to_work
     enter_number_file = gets.chomp.to_sym
     file_names = {
       "1": "First.txt",
@@ -41,16 +41,14 @@ class EnterTranslation
             length_of_half_word = (first.length - 1) / 2
             puts first[0..length_of_half_word].to_s
             user_word = gets.chomp
-            if user_word.upcase == first.upcase
-              puts "ПРАВИЛЬНО З ТРЕТЬОЇ СПРОБИ"
-            else
-              puts (first)
-            end
+            user_word.upcase == first.upcase
+            puts "ПРАВИЛЬНО З ТРЕТЬОЇ СПРОБИ" || puts(first)
           end
         end
       end
     end
   end
 end
+# end
 
 

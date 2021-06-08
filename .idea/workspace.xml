@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3acca63b-6adc-4211-a332-0ecd488bb91b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chose_item.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chose_item.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionary.rb" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entering_translation.rb" beforeDir="false" afterPath="$PROJECT_DIR$/entering_translation.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +131,7 @@
       <workItem from="1622780022904" duration="1640000" />
       <workItem from="1622822989197" duration="1073000" />
       <workItem from="1622824087993" duration="2287000" />
+      <workItem from="1623120000299" duration="42000" />
     </task>
     <servers />
   </component>
